@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug files
+debug_*.py
+test_*.py
+*_debug.*
+*.html
+
+# Browser data (contains login sessions)
+browser-data/
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Sensitive
+*.log
+*.spec
+build/
+dist/
